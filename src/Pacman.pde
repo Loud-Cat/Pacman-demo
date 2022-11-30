@@ -1,4 +1,4 @@
-/* Renders a 3D sphere sphere made of points,
+/* Renders a 3D sphere made of points,
  * removing some parts so that it looks like Pac-Man.
  * Red lines are used as shape borders. */
  
