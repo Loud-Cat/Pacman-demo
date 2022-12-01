@@ -34,8 +34,8 @@ void draw() {
       
       // Points that are not inside the mouth,
       // but are on the edges, are connected to form the border
-      if ( isclose(theta, TWO_PI * 9/10) ||
-        isclose(theta, TWO_PI/10) ) {
+      if ( isclose(theta, TWO_PI/10) ||
+        isclose(theta, TWO_PI * 9/10) ) {
           // same position, other side of the shape
           float zz = cos(a + PI) * rad;
           
