@@ -1,7 +1,7 @@
 /* Renders a 3D sphere made of points,
  * removing some parts so that it looks like Pac-Man.
  * Red lines are used as shape borders. */
- 
+
 void setup() {
   size(600, 600, P3D);
 }
